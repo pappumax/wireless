@@ -1,0 +1,7 @@
+x = [<X label data without commas>];
+y = [<Y label data without commas>];
+plot(x, y, '-o')
+title('<Title>')
+xlabel('<X label headings>')
+ylabel('<Y label headings>')
+grid on
